@@ -11,3 +11,16 @@ C:\Users\jania\OneDrive\Escritorio\Pablo\201700763_PARCIAL1\201700763__Notas\201
 C:\Users\jania\OneDrive\Escritorio\Pablo\201700763_PARCIAL1\201700763__Notas\201700763__Notas\obj\Debug\201700763__Notas.xml
 C:\Users\jania\OneDrive\Escritorio\Pablo\201700763_PARCIAL1\201700763__Notas\201700763__Notas\obj\Debug\201700763__Notas.pdb
 C:\Users\jania\OneDrive\Escritorio\Pablo\201700763_PARCIAL1\201700763__Notas\201700763__Notas\obj\Debug\_201700763__Notas.Form2.resources
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\bin\Debug\201700763__Notas.exe.config
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\bin\Debug\201700763__Notas.exe
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\bin\Debug\201700763__Notas.pdb
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\bin\Debug\201700763__Notas.xml
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\obj\Debug\201700763__Notas.vbprojAssemblyReference.cache
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\obj\Debug\_201700763__Notas.Form1.resources
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\obj\Debug\_201700763__Notas.Form2.resources
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\obj\Debug\_201700763__Notas.Resources.resources
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\obj\Debug\201700763__Notas.vbproj.GenerateResource.cache
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\obj\Debug\201700763__Notas.vbproj.CoreCompileInputs.cache
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\obj\Debug\201700763__Notas.exe
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\obj\Debug\201700763__Notas.xml
+C:\Users\jania\OneDrive\Escritorio\Pablo\progra2\201700763_PARCIAL1\201700763__Notas\201700763__Notas\obj\Debug\201700763__Notas.pdb
